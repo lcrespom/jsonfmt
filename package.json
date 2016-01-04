@@ -1,0 +1,19 @@
+{
+  "name": "jsonfmt",
+  "version": "1.0.0",
+  "description": "Small JSON formatting command-line tool",
+  "main": "jsonfmt.js",
+  "dependencies": {
+    "yargs": "^3.31.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "command-line"
+  ],
+  "author": "Luis Crespo",
+  "license": "ISC"
+}
