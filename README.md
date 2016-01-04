@@ -12,7 +12,7 @@ A simple JSON formatting command-line tool
 should be used to access the file system, for example:
 	`jsonfmt < readable.json > packed.json`
 
-By default, `jsonfmt` packs a readable JSON file into a sinle-line version of it. Size saving
+By default, `jsonfmt` packs a readable JSON file into a single-line version of it. Size saving
 is around 40-50%.
 
 The following parameters can be used:
